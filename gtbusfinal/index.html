@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       #map {
+            height: 100%;
+            width: 100%;
+       }
+       html {
+           box-sizing: border-box;
+           height: 100%;
+       }
+       body {
+           height: 100%;
+           margin: 0px auto;
+           font-family: sans-serif;
+       }
+       #container {
+           box-sizing: border-box;
+           height: calc(100% - 75px);
+           display: flex;
+           flex-flow: row wrap;
+       }
+       #side {
+           box-sizing: border-box;
+           padding: 20px;
+           width: 300px;
+           border-right: 2px solid black;
+       }
+       #main {
+           box-sizing: border-box;
+           width: calc(100% - 300px); 
+           height: 100%;
+       }
+       button {
+            color: black;
+            font-size: 16px;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            text-align: center;
+            margin: 10px;
+            margin-left: 0px;
+            border: 1px solid #eaaa00;
+       }
+
+       .sel {
+           border:#ffd000;
+           background:red;
+       }
+       
+       .choose {
+           margin-top: 20px;
+           padding-left: 0px;
+       }
+
+       #buzz {
+           height: 50px;
+           width: 50px;
+       }
+       .ind {
+           margin-left: 25px;
+       }
+       #header {
+           display: inline-flex;
+           width: calc(100% - 20px);
+           height: 50px;
+           background:#eaaa00;
+           padding: 10px;
+           border-bottom: 2px solid black;
+       }
+       #title {
+           margin-top: 12px;
+           margin-left: 20px;
+           margin-right: 50px;
+       }
+
+       a {
+           text-decoration: none;
+           color: black;
+       }
+
+       .tab {
+           border: 1px solid black;
+           border-radius: 5px;
+           padding: 10px;
+           margin-top: 2px;
+           vertical-align: middle;
+       }
+
+       .hidden {
+           display: none;
+       }
+       .bar {
+           fill:#eaaa00;
+       }
+       svg {
+           padding-left: 10px;
+       }
+       #crowdedness {
+           margin-top: -20px;
+       }
+
+    </style>
+  </head>
+  <body>
+    <div id="header">
+        <img id="buzz" src="./assets/buzz.png" >
+        <a href="#"><h2 id="title">GT Bus Analysis</h2></a>
+            <a id="plan-click" href="#"><h3 class="tab">Plan A Trip</h3></a>
+            <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h3>
+            <a id="statistics-click" href="#"><h3 class="tab">Statistics</h3></a>
+    </div>
+    <div id="container">
+        <div id="side">
+            <div id="graphs" class="hidden">
+                <label for="route-select">Select Route: </label>
+                <select id="route-select">
+                    <option value="red red">Red Route</option>
+                    <option value="blue blue">Blue Route</option>
+                    <option value="green green">Green Route</option>
+                    <option value="trolley orange">Trolley</option>
+    <!--                 <option value="emory purple">Emory Shuttle</option> -->
+                    <option value="night black">Midnight Rambler</option>
+                    <option value="tech orange">T/S Express</option>
+                </select>
+                <h5>Stop: <span id="stop-name"></span></h5>
+                <h5>Avg. # of People on Route</h5>
+                <svg id="crowdedness" width="250px" height="200px"></svg>
+                <h5>Expected Waiting Time</h5>
+                <select id="day-select">
+                    <option value="1">Monday</option>
+                    <option value="2">Tuesday</option>
+                    <option value="3">Wednesday</option>
+                    <option value="4">Thursday</option>
+                    <option value="5">Friday</option>
+                </select>
+                <svg id="average-wait" width="250px" height="200px"></svg>
+            </div>
+            <div id="routing">
+                <div class="choose">
+                    <label for="start">Start: </label><br />
+                    <input type="text" id="start" placeholder="lat,long"><br />
+                    <button id="start-select">Select Start</button>
+                </div>
+                <div class="choose">
+                    <label for="dest">Destination: </label><br />
+                    <input type="text" id="dest" placeholder="lat,long">
+                    <button id="dest-select">Select Destination</button>
+                </div>
+                <hr>
+                <button id="calc-route">Calculate Route</button>
+                <button id="clear">Clear</button>
+                <hr>
+                <div id="results" class="hidden">
+                    <p><a id="walking-link" href="" target="_blank"><b>Walking:</b></a> <span id="walk-time">20</span> minutes</p>
+                    <p><b>Busing:</b> <span id="bus-time">12</span> minutes</p>
+                    <p class="ind" id="walk1">Walk to \stop name\: 2 minutes</p>
+                    <p class="ind" id="wait1">Bus to \stop name\: 7 minutes</p>
+                    <p class="ind" id="bus1">Bus to \stop name\: 7 minutes</p>
+                    <p class="ind" id="walk2">Bus to \stop name\: 7 minutes</p>
+                </div>
+            </div>
+        </div>
+        <div id="main">
+            <div id="map"></div>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCeRVUUcHOawi4AJUg1ZI9k9EDcPNDR5Q8"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="assets/script.js">
+    </script>
+  </body>
+</htmle

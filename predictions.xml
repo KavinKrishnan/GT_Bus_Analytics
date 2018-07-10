@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Georgia Tech Campus 2018.">
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Ferst Dr &amp; State St" stopTag="fersstat_ob">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519298355" seconds="180" minutes="3" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524520885546" seconds="1767" minutes="29" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523285546" seconds="4167" minutes="69" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+<message text="Bus Stop on Ferst at State/Dalney, closed until further notice due to construction activities." priority="Normal"/>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Klaus Building" stopTag="ferschrec">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519382445" seconds="264" minutes="4" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521159278" seconds="2041" minutes="34" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523259278" seconds="4141" minutes="69" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="T/S Express" routeTag="tech" stopTitle="Clough Commons" stopTag="cloucomm" dirTitleBecauseNoPredictions="Tech Square">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="HSRB" stopTag="hsrb_d">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524522900000" seconds="3781" minutes="63" isDeparture="true" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="8th St &amp; West Village" stopTag="8thwvil">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524520352400" seconds="1234" minutes="20" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524521792400" seconds="2674" minutes="44" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523232400" seconds="4114" minutes="68" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fershemp_ob">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519323460" seconds="205" minutes="3" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519624250" seconds="506" minutes="8" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520332850" seconds="1214" minutes="20" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520464250" seconds="1346" minutes="22" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521304250" seconds="2186" minutes="36" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="HUB/Ferst Dr" stopTag="fershub">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519490561" seconds="372" minutes="6" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519791351" seconds="673" minutes="11" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520499951" seconds="1381" minutes="23" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520631351" seconds="1513" minutes="25" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521471351" seconds="2353" minutes="39" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; 5th Street" stopTag="5thtech_ib" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Academy of Medicine" stopTag="wpe7mrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520444104" seconds="1325" minutes="22" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524522220937" seconds="3102" minutes="51" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524320937" seconds="5202" minutes="86" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Fitten Hall - Arrival" stopTag="fitthall_a" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="8th St &amp; West Village" stopTag="8thwvil" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Clifton Rd &amp; Gatewood Rd" stopTag="clifgate_e">
+  <direction title="Emory">
+  <prediction epochTime="1524521894619" seconds="2776" minutes="46" isDeparture="false" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="GCATT" stopTag="gcat">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524520565117" seconds="1446" minutes="24" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524522965117" seconds="3846" minutes="64" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Ferst Dr &amp; State St" stopTag="fersstat">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519266477" seconds="148" minutes="2" isDeparture="false" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="433" />
+  <prediction epochTime="1524519531019" seconds="412" minutes="6" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524520024085" seconds="905" minutes="15" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520324875" seconds="1206" minutes="20" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524521033475" seconds="1915" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  </direction>
+<message text="Bus Stop on Ferst at State/Dalney, closed until further notice due to construction activities." priority="Normal"/>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Transit HUB" stopTag="tranhub">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524521118472" seconds="2000" minutes="33" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523518472" seconds="4400" minutes="73" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Publix Supermarket" stopTag="publix">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524520879169" seconds="1760" minutes="29" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524522979169" seconds="3860" minutes="64" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  <prediction epochTime="1524525041499" seconds="5923" minutes="98" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1644" />
+  </direction>
+<message text="The bus stop at Publix Midtown is open/serviced on weekends &amp; after 5pm weekdays." priority="Normal"/>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="NARA TEP" routeTag="naratep" stopTitle="Transit HUB" stopTag="tranhub">
+  <direction title="to TEP">
+  <prediction epochTime="1524519600000" seconds="481" minutes="8" isDeparture="true" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="142" />
+  <prediction epochTime="1524520800000" seconds="1681" minutes="28" isDeparture="true" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="143" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Tech Tower" stopTag="ferstcher">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519992495" seconds="874" minutes="14" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="978" />
+  <prediction epochTime="1524521432495" seconds="2314" minutes="38" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="980" />
+  <prediction epochTime="1524522872495" seconds="3754" minutes="62" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="982" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="8th St &amp; Hemphill Ave" stopTag="8thhemp">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519280017" seconds="161" minutes="2" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519580807" seconds="462" minutes="7" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520289407" seconds="1171" minutes="19" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520420807" seconds="1302" minutes="21" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521260807" seconds="2142" minutes="35" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Recreation Center" stopTag="reccent">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519393089" seconds="274" minutes="4" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519693879" seconds="575" minutes="9" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520402479" seconds="1284" minutes="21" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520533879" seconds="1415" minutes="23" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521373879" seconds="2255" minutes="37" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Transit HUB" stopTag="tranhub_b" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Ferst Dr &amp; Fowler St" stopTag="fersfowl">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519166674" seconds="48" minutes="0" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520593361" seconds="1475" minutes="24" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522033361" seconds="2915" minutes="48" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523473361" seconds="4355" minutes="72" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Recreation Center" stopTag="reccent_ob">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519413151" seconds="294" minutes="4" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524521000342" seconds="1882" minutes="31" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523400342" seconds="4282" minutes="71" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="North Avenue Apartments - Arrival" stopTag="naveapts_a">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519390269" seconds="272" minutes="4" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520816956" seconds="1698" minutes="28" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522256956" seconds="3138" minutes="52" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523696956" seconds="4578" minutes="76" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Student Center" stopTag="studcentr">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519460301" seconds="342" minutes="5" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519761091" seconds="642" minutes="10" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520469691" seconds="1351" minutes="22" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520601091" seconds="1482" minutes="24" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521441091" seconds="2322" minutes="38" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Clifton Road at Wesley Woods" stopTag="clifwesl_g">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524523318844" seconds="4200" minutes="70" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Transit HUB" stopTag="tranhub_f" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Clifton Road at Wesley Woods" stopTag="clifwesl_e">
+  <direction title="Emory">
+  <prediction epochTime="1524521765418" seconds="2647" minutes="44" isDeparture="false" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="8th St &amp; Hemphill Ave" stopTag="8thhemp">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524520404815" seconds="1286" minutes="21" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524521844815" seconds="2726" minutes="45" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523284815" seconds="4166" minutes="69" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="NARA TEP" routeTag="naratep" stopTitle="TEP" stopTag="tep_d">
+  <direction title="to TEP">
+  <prediction epochTime="1524519949887" seconds="831" minutes="13" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="142" />
+  <prediction epochTime="1524521149887" seconds="2031" minutes="33" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="143" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Klaus Building" stopTag="ferschmrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520134038" seconds="1015" minutes="16" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521910871" seconds="2792" minutes="46" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524010871" seconds="4892" minutes="81" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="T/S Express" routeTag="tech" stopTitle="Technology Square" stopTag="techsqua_ob" dirTitleBecauseNoPredictions="Tech Square">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fershemp_ob">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519341426" seconds="223" minutes="3" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524520928617" seconds="1810" minutes="30" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523328617" seconds="4210" minutes="70" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; 4th St" stopTag="tech4th_ob" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Ferst Dr &amp; Fowler St" stopTag="fersfowl">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519162968" seconds="44" minutes="0" isDeparture="false" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="433" />
+  <prediction epochTime="1524519427510" seconds="309" minutes="5" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519920576" seconds="802" minutes="13" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520221366" seconds="1103" minutes="18" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520929966" seconds="1811" minutes="30" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Tech Tower" stopTag="cherfers">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519521684" seconds="403" minutes="6" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519822474" seconds="704" minutes="11" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520531074" seconds="1412" minutes="23" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520662474" seconds="1544" minutes="25" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521502474" seconds="2384" minutes="39" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="College of Business" stopTag="duprmrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520396780" seconds="1278" minutes="21" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524522173613" seconds="3055" minutes="50" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524273613" seconds="5155" minutes="85" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="North Avenue Apartments - Arrival" stopTag="naveapts_a">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519164005" seconds="45" minutes="0" isDeparture="false" dirTag="naveapts" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519657071" seconds="538" minutes="8" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519957861" seconds="839" minutes="13" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520666461" seconds="1548" minutes="25" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520797861" seconds="1679" minutes="27" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Techwood Dr &amp; 5th Street" stopTag="5thtech">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519370587" seconds="252" minutes="4" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519863653" seconds="745" minutes="12" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520164443" seconds="1046" minutes="17" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520873043" seconds="1754" minutes="29" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524521004443" seconds="1886" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="442" block="0302" tripTag="648" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="T/S Express" routeTag="tech" stopTitle="Technology Square" stopTag="techsqua" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Woodruff Memorial" stopTag="woodmemo">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524523020798" seconds="3902" minutes="65" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Fowler St" stopTag="fersfomrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520176974" seconds="1058" minutes="17" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521953807" seconds="2835" minutes="47" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524053807" seconds="4935" minutes="82" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Baker Bldg" stopTag="bakebldg">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519260971" seconds="142" minutes="2" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524520848162" seconds="1729" minutes="28" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523248162" seconds="4129" minutes="68" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="MARTA Midtown Station" stopTag="mart_e">
+  <direction title="Emory">
+  <prediction epochTime="1524520990920" seconds="1872" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Techwood Dr &amp; 5th St" stopTag="tech5rec">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519287222" seconds="168" minutes="2" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521064055" seconds="1945" minutes="32" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523164055" seconds="4045" minutes="67" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Klaus Building" stopTag="fersklau">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519189821" seconds="71" minutes="1" isDeparture="false" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="433" />
+  <prediction epochTime="1524519454363" seconds="336" minutes="5" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519947429" seconds="829" minutes="13" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520248219" seconds="1129" minutes="18" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520956819" seconds="1838" minutes="30" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="HUB/Ferst Dr" stopTag="hubfers">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524520028149" seconds="909" minutes="15" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="978" />
+  <prediction epochTime="1524521468149" seconds="2349" minutes="39" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="980" />
+  <prediction epochTime="1524522908149" seconds="3789" minutes="63" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="982" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Ferst Dr &amp; Atlantic Dr" stopTag="fersatla">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524520513089" seconds="1394" minutes="23" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524521953089" seconds="2834" minutes="47" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523393089" seconds="4274" minutes="71" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; North Ave" stopTag="technorth_ib" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; 5th Street" stopTag="5thtech" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Ferst Dr &amp; Atlantic Dr" stopTag="fersatla_d">
+  <direction title="Emory">
+  <prediction epochTime="1524520681285" seconds="1563" minutes="26" isDeparture="true" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="14th St Bus Yard - Arrival" stopTag="14thbusy_a">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519658375" seconds="540" minutes="9" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521681307" seconds="2563" minutes="42" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524524081307" seconds="4963" minutes="82" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Ferst Dr &amp; Atlantic Dr - Arrival" stopTag="fersatla_a">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524520367261" seconds="1249" minutes="20" isDeparture="false" dirTag="geortech" vehicle="760" block="0501" tripTag="35" />
+  <prediction epochTime="1524524722827" seconds="5604" minutes="93" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fershemp">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519354535" seconds="236" minutes="3" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521377467" seconds="2259" minutes="37" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523777467" seconds="4659" minutes="77" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; 4th St" stopTag="tech4th_ib" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Transit HUB - Arrival" stopTag="tranhub_a">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519726329" seconds="608" minutes="10" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521503162" seconds="2384" minutes="39" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523603162" seconds="4484" minutes="74" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Ferst Dr &amp; Atlantic Dr" stopTag="fersatla">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519232980" seconds="114" minutes="1" isDeparture="false" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="433" />
+  <prediction epochTime="1524519497522" seconds="379" minutes="6" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519990588" seconds="872" minutes="14" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520291378" seconds="1173" minutes="19" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520999978" seconds="1881" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="MARTA Midtown Station - Arrival" stopTag="marta_a">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520619970" seconds="1501" minutes="25" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524522396803" seconds="3278" minutes="54" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524511101" seconds="5392" minutes="89" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Recreation Center" stopTag="creccent_ob" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Fitten Hall - Arrival" stopTag="fitthall_a">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519365999" seconds="247" minutes="4" isDeparture="false" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="433" />
+  <prediction epochTime="1524519630541" seconds="512" minutes="8" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524520123607" seconds="1005" minutes="16" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520424397" seconds="1306" minutes="21" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524521132997" seconds="2014" minutes="33" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Techwood Dr &amp; 4th Street" stopTag="4thtech">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519321788" seconds="203" minutes="3" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519814854" seconds="696" minutes="11" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520115644" seconds="997" minutes="16" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520824244" seconds="1705" minutes="28" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520955644" seconds="1837" minutes="30" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="442" block="0302" tripTag="648" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="NARA TEP" routeTag="naratep" stopTitle="Tech Tower" stopTag="techtowe">
+  <direction title="to TEP">
+  <prediction epochTime="1524519649128" seconds="530" minutes="8" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="142" />
+  <prediction epochTime="1524520849128" seconds="1730" minutes="28" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="143" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="North Deck" stopTag="ndec">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519441245" seconds="322" minutes="5" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521464177" seconds="2345" minutes="39" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523864177" seconds="4745" minutes="79" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Recreation Center" stopTag="creccent">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519258757" seconds="140" minutes="2" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521281689" seconds="2163" minutes="36" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523681689" seconds="4563" minutes="76" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="NARA TEP" routeTag="naratep" stopTitle="NARA" stopTag="nara">
+  <direction title="to TEP">
+  <prediction epochTime="1524519818715" seconds="700" minutes="11" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="142" />
+  <prediction epochTime="1524521018715" seconds="1900" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="tep" vehicle="749" block="0701" tripTag="143" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Fowler St" stopTag="fersforec">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519347707" seconds="229" minutes="3" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521124540" seconds="2006" minutes="33" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523224540" seconds="4106" minutes="68" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Clough Commons" stopTag="cloucomm" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fershemp">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524520456523" seconds="1338" minutes="22" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524521896523" seconds="2778" minutes="46" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523336523" seconds="4218" minutes="70" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Recreation Center" stopTag="recctr">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519607489" seconds="489" minutes="8" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521384322" seconds="2266" minutes="37" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523484322" seconds="4366" minutes="72" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Student Center" stopTag="studcent_ib">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519170726" seconds="52" minutes="0" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521193658" seconds="2075" minutes="34" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523593658" seconds="4475" minutes="74" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Hemphill Ave &amp; 10th St" stopTag="10thhemp">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519551255" seconds="433" minutes="7" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521574187" seconds="2455" minutes="40" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524523974187" seconds="4855" minutes="80" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Klaus Building" stopTag="klaubldg">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519135582" seconds="17" minutes="0" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520562269" seconds="1444" minutes="24" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522002269" seconds="2884" minutes="48" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523442269" seconds="4324" minutes="72" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Student Center" stopTag="studcent">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519488750" seconds="370" minutes="6" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524521075941" seconds="1957" minutes="32" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523475941" seconds="4357" minutes="72" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Techwood Dr &amp; 4th St" stopTag="tech4th">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519250800" seconds="132" minutes="2" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520677487" seconds="1559" minutes="25" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522117487" seconds="2999" minutes="49" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523557487" seconds="4439" minutes="73" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Recreation Center" stopTag="creccent_ib" dirTitleBecauseNoPredictions="Fitten Hall">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Atlantic Dr" stopTag="fersatl_ib">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520071429" seconds="953" minutes="15" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521848262" seconds="2730" minutes="45" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524523948262" seconds="4830" minutes="80" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="MARTA Midtown Station" stopTag="marta_g">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524520051738" seconds="933" minutes="15" isDeparture="false" dirTag="geortech" vehicle="760" block="0501" tripTag="35" />
+  <prediction epochTime="1524524418250" seconds="5300" minutes="88" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="T/S Express" routeTag="tech" stopTitle="College of Business" stopTag="duprmrt" dirTitleBecauseNoPredictions="Tech Square">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Fitten Hall" stopTag="fitthall">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524520244634" seconds="1126" minutes="18" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="978" />
+  <prediction epochTime="1524521684634" seconds="2566" minutes="42" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="980" />
+  <prediction epochTime="1524523124634" seconds="4006" minutes="66" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="982" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Techwood Dr &amp; 3rd Street" stopTag="3rdtech">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519292474" seconds="174" minutes="2" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519785540" seconds="667" minutes="11" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520086330" seconds="968" minutes="16" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520794930" seconds="1676" minutes="27" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520926330" seconds="1808" minutes="30" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="442" block="0302" tripTag="648" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Technology Square" stopTag="techsqua">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519240254" seconds="122" minutes="2" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521017087" seconds="1898" minutes="31" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523117087" seconds="3998" minutes="66" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Techwood Dr &amp; 5th St" stopTag="tech5th">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519208693" seconds="90" minutes="1" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520635380" seconds="1517" minutes="25" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522075380" seconds="2957" minutes="49" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523515380" seconds="4397" minutes="73" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Techwood Dr &amp; Bobby Dodd Way" stopTag="techbob">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519290702" seconds="172" minutes="2" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520717389" seconds="1599" minutes="26" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522157389" seconds="3039" minutes="50" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523597389" seconds="4479" minutes="74" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fersherec">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519531154" seconds="412" minutes="6" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521307987" seconds="2189" minutes="36" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523407987" seconds="4289" minutes="71" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="14th St &amp; State St" stopTag="14thstat">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524520525484" seconds="1407" minutes="23" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524522925484" seconds="3807" minutes="63" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="8th St &amp; West Village" stopTag="8thwvil">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519221017" seconds="102" minutes="1" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524519521807" seconds="403" minutes="6" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520230407" seconds="1112" minutes="18" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520361807" seconds="1243" minutes="20" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="442" block="0302" tripTag="648" />
+  <prediction epochTime="1524521201807" seconds="2083" minutes="34" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="naveapts" vehicle="431" block="0304" tripTag="435" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Blue" routeTag="blue" stopTitle="Techwood Dr &amp; North Ave" stopTag="technorth">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524519236047" seconds="117" minutes="1" isDeparture="false" dirTag="fitthall" vehicle="442" block="0302" tripTag="647" />
+  <prediction epochTime="1524519729113" seconds="610" minutes="10" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="569" />
+  <prediction epochTime="1524520029903" seconds="911" minutes="15" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.362" dirTag="fitthall" vehicle="431" block="0304" tripTag="434" />
+  <prediction epochTime="1524520738503" seconds="1620" minutes="27" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="753" block="0303" tripTag="570" />
+  <prediction epochTime="1524520869903" seconds="1751" minutes="29" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="442" block="0302" tripTag="648" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Recreation Center" stopTag="ferstdr">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524519901979" seconds="783" minutes="13" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521678812" seconds="2560" minutes="42" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524523778812" seconds="4660" minutes="77" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="GLC" stopTag="glc">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519192066" seconds="73" minutes="1" isDeparture="false" dirTag="hub" vehicle="492" block="0402" tripTag="282" />
+  <prediction epochTime="1524520779257" seconds="1661" minutes="27" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="225" />
+  <prediction epochTime="1524523179257" seconds="4061" minutes="67" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="hub" vehicle="491" block="0401" tripTag="227" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Student Center" stopTag="centrstud">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524520069916" seconds="951" minutes="15" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="978" />
+  <prediction epochTime="1524521509916" seconds="2391" minutes="39" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="980" />
+  <prediction epochTime="1524522949916" seconds="3831" minutes="63" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="982" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Student Center" stopTag="centrstud">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524519803592" seconds="685" minutes="11" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521580425" seconds="2462" minutes="41" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524523680425" seconds="4562" minutes="76" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Hemphill Ave" stopTag="fershemrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524519997757" seconds="879" minutes="14" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521774590" seconds="2656" minutes="44" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524523874590" seconds="4756" minutes="79" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Techwood Dr &amp; North Ave" stopTag="technorth">
+  <direction title="North Ave Apts">
+  <prediction epochTime="1524519332120" seconds="213" minutes="3" isDeparture="false" dirTag="naveapts" vehicle="438" block="0204" tripTag="977" />
+  <prediction epochTime="1524520758807" seconds="1640" minutes="27" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="979" />
+  <prediction epochTime="1524522198807" seconds="3080" minutes="51" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="981" />
+  <prediction epochTime="1524523638807" seconds="4520" minutes="75" isDeparture="false" affectedByLayover="true" dirTag="naveapts" vehicle="438" block="0204" tripTag="983" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Green" routeTag="green" stopTitle="Hemphill Ave &amp; Curran St" stopTag="hempcurr">
+  <direction title="to 14th Street">
+  <prediction epochTime="1524519601721" seconds="483" minutes="8" isDeparture="false" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="224" />
+  <prediction epochTime="1524521624653" seconds="2506" minutes="41" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="226" />
+  <prediction epochTime="1524524024653" seconds="4906" minutes="81" isDeparture="false" affectedByLayover="true" delayed="true" slowness="0.413" dirTag="14thbusy" vehicle="491" block="0401" tripTag="228" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Techwood Dr &amp; 5th St" stopTag="tech5mrt">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520222655" seconds="1104" minutes="18" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524521999488" seconds="2881" minutes="48" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524099488" seconds="4981" minutes="83" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Piedmont Road at Atlanta Botanical Garden" stopTag="piedbota_g">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524519524854" seconds="406" minutes="6" isDeparture="false" dirTag="geortech" vehicle="760" block="0501" tripTag="35" />
+  <prediction epochTime="1524523904237" seconds="4785" minutes="79" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Piedmont Road at Atlanta Botanical Garden" stopTag="piedbota_e">
+  <direction title="Emory">
+  <prediction epochTime="1524521194920" seconds="2076" minutes="34" isDeparture="false" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Technology Square" stopTag="techsqua_ib">
+  <direction title="To MARTA Station">
+  <prediction epochTime="1524520289811" seconds="1171" minutes="19" isDeparture="false" dirTag="marta" vehicle="406" block="0101" tripTag="1639" />
+  <prediction epochTime="1524522066644" seconds="2948" minutes="49" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1641" />
+  <prediction epochTime="1524524166644" seconds="5048" minutes="84" isDeparture="false" affectedByLayover="true" dirTag="marta" vehicle="406" block="0101" tripTag="1643" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Red" routeTag="red" stopTitle="Recreation Center" stopTag="creccent">
+  <direction title="Fitten Hall">
+  <prediction epochTime="1524520147315" seconds="1029" minutes="17" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="978" />
+  <prediction epochTime="1524521587315" seconds="2469" minutes="41" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="980" />
+  <prediction epochTime="1524523027315" seconds="3909" minutes="65" isDeparture="false" affectedByLayover="true" dirTag="fitthall" vehicle="438" block="0204" tripTag="982" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Student Center" stopTag="studcentr">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519685852" seconds="567" minutes="9" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521462685" seconds="2344" minutes="39" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523562685" seconds="4444" minutes="74" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="Clifton Rd &amp; Gatewood Rd" stopTag="clifgate">
+  <direction title="Georgia Tech">
+  <prediction epochTime="1524523146293" seconds="4028" minutes="67" isDeparture="false" affectedByLayover="true" dirTag="geortech" vehicle="760" block="0501" tripTag="37" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="8th St &amp; Hemphill Ave" stopTag="8thhemp" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Emory Shuttle" routeTag="emory" stopTitle="HSRB - Arrival" stopTag="hsrb_a">
+  <direction title="Emory">
+  <prediction epochTime="1524522023413" seconds="2905" minutes="48" isDeparture="false" affectedByLayover="true" dirTag="emry" vehicle="760" block="0501" tripTag="36" />
+  </direction>
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Midnight Rambler" routeTag="night" stopTitle="Techwood Dr &amp; North Ave" stopTag="technorth_ob" dirTitleBecauseNoPredictions="Clough Commons">
+</predictions>
+<predictions agencyTitle="Georgia Tech Campus" routeTitle="Tech Trolley" routeTag="trolley" stopTitle="Ferst Dr &amp; Atlantic Dr" stopTag="fersatla">
+  <direction title="Transit Hub">
+  <prediction epochTime="1524519438941" seconds="320" minutes="5" isDeparture="false" dirTag="hub" vehicle="406" block="0101" tripTag="1638" />
+  <prediction epochTime="1524521215774" seconds="2097" minutes="34" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1640" />
+  <prediction epochTime="1524523315774" seconds="4197" minutes="69" isDeparture="false" affectedByLayover="true" dirTag="hub" vehicle="406" block="0101" tripTag="1642" />
+  </direction>
+</predictions>
+<keyForNextTime value="599941815555" />
+</body>
+
